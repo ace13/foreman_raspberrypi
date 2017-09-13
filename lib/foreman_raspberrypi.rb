@@ -1,5 +1,4 @@
-require "foreman_raspberrypi/version"
+require "foreman_raspberrypi/engine"
 
 module ForemanRaspberrypi
-  # Your code goes here...
 end
